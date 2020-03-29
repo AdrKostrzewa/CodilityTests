@@ -1,0 +1,14 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="The javax.transaction.Transactional annotation provides the application * the ability to declaratively control transaction boundaries on CDI managed beans, as * well as classes defined as managed beans by the Jakarta EE specification" />
+      <item value="* The TxType element of the Transactional annotation indicates whether a bean method * is to be executed within a transaction context." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="2" />
+        <entry key="POLISH" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
