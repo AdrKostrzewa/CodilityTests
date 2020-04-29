@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolve" />
+      <item value="Cannot resolve de.codecentric:spring-boot-admin-starter-server:unknown" />
       <item value="Range for response status value 400" />
       <item value="appropriate" />
       <item value="semantics by default." />
@@ -13,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="9" />
-        <entry key="POLISH" value="9" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="POLISH" value="12" />
       </map>
     </option>
   </component>
