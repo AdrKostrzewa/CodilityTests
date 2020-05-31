@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invocation of init method failed;" />
+      <item value="Return whether the uploaded file is empty, that is, either no file has * been chosen in the multipart form or the chosen file has no content" />
       <item value="nested" />
       <item value="Unsatisfied dependency expressed through constructor parameter 1" />
       <item value="resolve" />
@@ -17,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
-        <entry key="POLISH" value="14" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="POLISH" value="16" />
       </map>
     </option>
   </component>
