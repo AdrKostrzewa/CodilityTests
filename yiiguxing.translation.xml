@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Validation" />
+      <item value="nested exception is" />
+      <item value="nested" />
+      <item value="Invocation" />
       <item value="Please refer to dump files" />
       <item value="Ambiguous" />
       <item value="Invocation of init method failed;" />
       <item value="Return whether the uploaded file is empty, that is, either no file has * been chosen in the multipart form or the chosen file has no content" />
-      <item value="nested" />
       <item value="Unsatisfied dependency expressed through constructor parameter 1" />
       <item value="resolve" />
       <item value="Cannot resolve de.codecentric:spring-boot-admin-starter-server:unknown" />
@@ -21,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="18" />
-        <entry key="POLISH" value="18" />
+        <entry key="ENGLISH" value="22" />
+        <entry key="POLISH" value="22" />
       </map>
     </option>
   </component>
