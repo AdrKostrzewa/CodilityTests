@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 //frogs
-public class Solution {
+public class SolutionSollersZaby {
     public static int solution(int[] blocks) {
         int countRise = 0;
         int countDecrease = 0;
